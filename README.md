@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Normie-XD 👋</h1>
 
-<!--
-**Normie-xd/Normie-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  2nd Year Computer Science Student &nbsp;|&nbsp; Competitive Programmer &nbsp;|&nbsp; Builder
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 Pursuing a B.Tech in Computer Science Engineering
+- 💡 Passionate about **competitive programming** and **systems-level thinking**
+- 🛠️ Currently building desktop tools with **Electron + Node.js**
+- 📈 Constantly improving problem-solving skills across platforms
+- 🌱 Learning something new every day
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://codeforces.com/profile/#" target="https://codeforces.com/profile/Normie96">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/#" target="https://leetcode.com/u/Normie96/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/#" target="https://www.codechef.com/users/normie96">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+---
+
+### 📦 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [📂 WinDir Explorer](https://github.com/Normie-xd/WinDir-Explorer) | A Windows directory explorer with recursive size calculation, sorting, filtering and file management | Electron, Node.js, JS |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Normie-xd&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normie-xd&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Normie-xd&color=0d1117&style=flat-square&label=Profile+Views" />
+</p>
