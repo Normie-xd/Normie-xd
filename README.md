@@ -42,15 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Normie-xd&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normie-xd&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Normie-xd&color=0d1117&style=flat-square&label=Profile+Views" />
 </p>
